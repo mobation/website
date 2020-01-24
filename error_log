@@ -1,0 +1,265 @@
+[22-Jan-2020 23:32:57 Etc/GMT] PHP Warning:  require_once(C:\xampp\htdocs\formtools\global\api\API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:32:57 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\formtools\global\api\API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:33:25 Etc/GMT] PHP Warning:  require_once(C:\xampp\htdocs\formtools\global\api\API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:33:25 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\formtools\global\api\API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:34:14 Etc/GMT] PHP Warning:  require_once(C:\xampp\htdocs\formtools\global\api\API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:34:14 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\formtools\global\api\API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:35:45 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:35:45 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:35:54 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:35:54 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:04 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:04 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:16 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:16 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:27 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:27 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:29 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:29 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:31 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:31 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:36 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:36 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:43 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:36:43 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:54:22 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[22-Jan-2020 23:54:22 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 00:07:34 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 00:07:34 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 00:07:35 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 00:07:35 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 00:46:48 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 00:46:48 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:02:46 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:02:46 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:41:31 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:41:31 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:41:33 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:41:33 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:41:43 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:41:43 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:43:24 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 02:43:24 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 03:15:19 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 03:15:19 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 04:29:11 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 04:29:11 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 04:43:57 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 04:43:57 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 05:17:52 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 05:17:52 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 06:05:21 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 06:05:21 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 06:16:27 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 06:16:27 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 06:24:40 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 06:24:40 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 06:34:41 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 06:34:41 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:01:52 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:01:52 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:01:53 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:01:53 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:02:05 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:02:05 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:02:05 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:02:05 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:06:33 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:06:33 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:06:33 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:06:33 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:24:38 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:24:38 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:24:38 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:24:38 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:26:15 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:26:15 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:31:57 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:31:57 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:45:44 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:45:44 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:45:50 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:45:50 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:54:13 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:54:13 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:56:29 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 08:56:29 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 09:10:23 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 09:10:23 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:22:16 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:22:16 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:22:33 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:22:33 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:24:05 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:24:05 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:24:08 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:24:08 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:24:09 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:24:09 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:31:50 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:31:50 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:31:51 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:31:51 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:25 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:25 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:28 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:28 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:30 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:30 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:31 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:31 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:32 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:32 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:33 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:33 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:34 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:34 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:35 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:35 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:39 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:39 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:40 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:40 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:41 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:41 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:42 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:42 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:44 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:44 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:48 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:48 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:50 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:50 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:51 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:51 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:53 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:53 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:54 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:48:54 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:49:24 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:49:24 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:55:16 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:55:16 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:55:26 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 11:55:26 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 12:19:28 Etc/GMT] PHP Warning:  require_once(/public_html/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/temp-index.php on line 5
+[23-Jan-2020 12:19:28 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/temp-index.php on line 5
+[23-Jan-2020 12:28:05 Etc/GMT] PHP Warning:  require_once(/public_html/mobation/formtools/global/api/API.class.php): failed to open stream: No such file or directory in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 12:28:05 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/public_html/mobation/formtools/global/api/API.class.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mobatxik/public_html/index.php on line 5
+[23-Jan-2020 12:44:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:44:04 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:44:13 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:44:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:44:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:44:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:45:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:45:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:46:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:46:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:47:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:49:14 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
+[23-Jan-2020 12:49:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php:71
+Stack trace:
+#0 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(1948): FormTools\Database->query('SELECT * FROM f...')
+#1 /home/mobatxik/public_html/mobation/formtools/global/code/Forms.class.php(574): FormTools\Forms::getFormRow(4)
+#2 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(311): FormTools\Forms::checkFormExists(4)
+#3 /home/mobatxik/public_html/mobation/formtools/global/api/API.class.php(396): FormTools\API->createSubmission(4)
+#4 /home/mobatxik/public_html/index.php(8): FormTools\API->initFormPage(4)
+#5 {main}
+  thrown in /home/mobatxik/public_html/mobation/formtools/global/code/Database.class.php on line 71
